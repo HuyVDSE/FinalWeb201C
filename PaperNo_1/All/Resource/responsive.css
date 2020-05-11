@@ -1,0 +1,49 @@
+header {
+    background-color: #ffff66;
+    text-align: center;
+    margin: 0 auto;
+    height: 150px;
+}
+
+header h1 {
+    font-size: 250%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+nav a {
+    text-align: center;
+    text-decoration: none;
+    border: 2px solid #000000;
+    border-radius: 30px;
+    padding: 1% 15%;
+    margin-left: 2%;
+    background-color: #ffffff;
+}
+
+#left {
+    float: left;
+    width: 50%;
+    margin-right: 40px;
+    padding-bottom: 80px;
+}
+
+#para3 {
+    color: #0d39ff;
+}
+
+footer {
+    text-align: center;
+    background-color: #ffff66;
+    padding-top: 2%;
+    padding-bottom: 1px;
+}
+
+footer p {
+    font-size: 115%;
+    text-transform: uppercase;
+}
+
+#para2 {
+    display: none;
+}
